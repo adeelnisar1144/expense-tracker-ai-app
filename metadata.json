@@ -1,0 +1,7 @@
+{
+  "name": "BudgetFlow",
+  "description": "A comprehensive app to help you manage your finances effectively by tracking daily expenses, setting budget goals, and analyzing spending habits. Take control of your financial health with an intuitive and visually appealing interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
